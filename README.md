@@ -5,7 +5,6 @@
 ![Last Commit](https://img.shields.io/github/last-commit/MrGuato/Cyber-Bookmarks)
 
 ![Top Language](https://img.shields.io/github/languages/top/MrGuato/Cyber-Bookmarks)
-![Repo Size](https://img.shields.io/github/repo-size/MrGuato/Cyber-Bookmarks)
 ![License](https://img.shields.io/github/license/MrGuato/Cyber-Bookmarks)
 ![CTI](https://img.shields.io/badge/CTI-5-yellow)
 ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-6-purple)
