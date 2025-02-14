@@ -1,9 +1,14 @@
 # Cybersecurity Bookmarks
 
+[![Made With Love](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-by%20Jonathan-red)](https://github.com/MrGuato/Cyber-Bookmarks)
 ![GitHub stars](https://img.shields.io/github/stars/MrGuato/Cyber-Bookmarks?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/MrGuato/Cyber-Bookmarks)
+
+![Top Language](https://img.shields.io/github/languages/top/MrGuato/Cyber-Bookmarks)
 ![Repo Size](https://img.shields.io/github/repo-size/MrGuato/Cyber-Bookmarks)
-![CTI](https://img.shields.io/badge/CTI-5-color)
+![License](https://img.shields.io/github/license/MrGuato/Cyber-Bookmarks)
+![CTI](https://img.shields.io/badge/CTI-5-yellow)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-6-purple)
 
 Welcome to my collection of cybersecurity bookmarks! 🛡️🔐
 
